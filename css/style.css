@@ -1066,6 +1066,7 @@ label {
 
 .number {
     padding:0 25px;
+    /* height: 74px; */
     width: 300px;
     box-sizing: border-box;
     border: 1px solid #FFA3A3;
